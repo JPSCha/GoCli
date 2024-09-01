@@ -26,9 +26,7 @@ func Generate() *cli.App {
 				},
 			},
 
-			Action:  func(c *cli.Context){
-
-			},
+			Action: SearchIp,
 
 		},
 	}
