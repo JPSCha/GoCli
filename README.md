@@ -16,4 +16,4 @@
 To install the application, make sure you have Go installed and set up in your environment. Then run the following command:
 
 ```bash
-go install github.com/your-username/ip-server-finder@latest
+go install https://github.com/JPSCha/GoCli
