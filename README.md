@@ -7,9 +7,6 @@ This is a CLI application built in Go that allows users to search and retrieve I
 ## Features
 - Search for IP addresses associated with a domain name.
 - Look up server names for a given IP address.
-- Display detailed network information (IP range, location, etc.).
-- Support for bulk searches from a file.
-- JSON and CSV output formats for easy integration with other tools.
 
 ## Installation
 
