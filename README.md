@@ -2,7 +2,7 @@
 # IP and Server Name Finder
 
 ## Overview
-This is a CLI application built in Go that allows users to search and retrieve IP addresses and server names from the internet. The app uses various techniques and APIs to query and display network information for a given domain or IP range.
+This is a CLI application built in Go that allows users to search and retrieve IP addresses and server names from the internet. The app display network information for a given domain or IP range.
 
 ## Features
 - Search for IP addresses associated with a domain name.
